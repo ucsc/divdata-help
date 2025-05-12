@@ -2,7 +2,7 @@
 /*
 Plugin Name: Div Data Docs API
 Description: Exposes relavent posts via a custom REST API endpoint.
-Version: 1.1
+Version: 0.0.1
 Author: Sammy Slug
 */
 
