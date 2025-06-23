@@ -38,7 +38,7 @@ This WordPress plugin exposes **DivData Help Docs** via a custom REST API endpoi
 3. Clone this plugin into the `plugins/` directory:
 
    ```bash
-  git clone https://github.com/ucsc/divdata-help.git  div-data-docs-api div-data-docs-api
+  git clone https://github.com/ucsc/divdata-help.git  div-data-docs-api
    ```
 
 4. In the WordPress admin dashboard (`http://localhost/wp-admin`):
